@@ -1,0 +1,52 @@
+----------
+Search API
+----------
+Search Term - "easter"
+Tweets - 
+RT @joannaccherry: Bearing witness at Easter-SNP call on UK Government to do more for refugees on fact-finding mission to Calais camps http…
+RT @KendallJenner: Happy Easter!
+@Calum5SOS Happy Easter also ;3 &lt;3
+RT @linbea945: Happy Easter my friends ^_^ https://t.co/y1iZjwLoVo
+RT @Calum5SOS: Happy Easter to all you meddling kids
+@Calum5SOS where is my Easter basket Daddy?
+RT @CoolPetVideo: Happy Easter From These Festive Cats and Dogs -  https://t.co/VXaGk7Av9I https://t.co/RCYzmgxSFX
+Happy easter you too😘😘🐇 https://t.co/uuy39hxTc5
+RT @xbadchristianx: Happy Easter. https://t.co/7JNGdST8Vw
+RT @drmikemurdock: SUN 5:20a...
+HAPPY EASTER 
+Precious Twitter Family!!
+
+
+----------------------------
+Terms with highest frequency
+----------------------------
+RT 0.05685928739374209
+like 0.004521613311629589
+love 0.0033459938506058963
+Weather 0.0028486163863266412
+get 0.0026677518538614576
+u 0.0024416711882799783
+one 0.0021929824561403508
+Get 0.002147766323024055
+new 0.002102550189907759
+want 0.0020347259902333153
+people 0.0020121179236751675
+see 0.0019895098571170193
+know 0.0019895098571170193
+make 0.0018764695243262796
+good 0.0017860372580936878
+back 0.001695604991861096
+need 0.0016729969253029481
+go 0.0016277807921866521
+day 0.0016277807921866521
+got 0.0015599565925122083
+us 0.0015599565925122083
+Updates 0.0014243081931633206
+time 0.0013790920600470248
+much 0.0013564839934888768
+would 0.0013338759269307288
+life 0.001311267860372581
+think 0.001266051727256285
+take 0.0012434436606981372
+still 0.0011756194610236933
+never 0.0011530113944655453
